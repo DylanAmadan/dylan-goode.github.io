@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {: .notice--info}
-The new site is available [here](https://personal-website-phi-pink-39.vercel.app/).
+The new site is available [here](https://dylan-goode.vercel.app/).
 
 <!-- VERSION A: IMPACT-FIRST (Recommended for Anthropic, Stripe, Revolut) -->
 
